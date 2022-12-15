@@ -1,0 +1,15 @@
+{
+    "name": "pretomkumarsaha/mvc-framework-core-php",
+    "authors": [
+        {
+            "name": "pretomksaha",
+            "email": "pretomksaha@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
